@@ -1,0 +1,7 @@
+	 Statistics of file2
+Number of
+	- symbols: 56
+	- lines: 3
+	- vowels: 25
+	- consonants: 27
+	- numbers: 2

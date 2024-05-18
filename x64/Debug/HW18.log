@@ -1,0 +1,3 @@
+﻿  homework18_files.cpp
+C:\Users\Valentina\source\repos\HW18\HW18\homework18_files.cpp(25,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HW18.vcxproj -> C:\Users\Valentina\source\repos\HW18\x64\Debug\HW18.exe
